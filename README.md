@@ -9,9 +9,7 @@ I only test this code on Win8.1 + VS2013.
 - OpenCV 3.0 (or later)
 - ArrayFire
 
-##### Warning: This project is not well-optimized since it is only for understanding some detail operations in CNNs. I highly 
-##### suggest that everyone should not use this code to train a large-scale network on large-scale dataset. Please 
-##### use other excellent pacakges, such as Caffe, MxNet, MatConvnet, Cudnn etc.
+##### Warning: This project is not well-optimized since it is only for understanding some detail operations in CNNs. I highly suggest that everyone should not use this code to train a large-scale network on large-scale dataset. Please use other excellent pacakges, such as Caffe, MxNet, MatConvnet, Cudnn etc.
 
 #### If your still want to use it, please read:
 
