@@ -11,7 +11,7 @@ I only test this code on Win8.1 + VS2013.
 
 ##### Warning: This project is not well-optimized since it is only for understanding some detail operations in CNNs. I highly suggest that everyone should not use this code to train a large-scale network on large-scale dataset. Please use other excellent pacakges, such as Caffe, MxNet, MatConvnet, Cudnn etc.
 
-#### If your still want to use it, please read:
+#### If you still wanna use it, please read:
 
 1. Install OpenCV3.0 and ArrayFie.
 2. Create a new Project in VS2013, and add all "CNN/*.h" and "CNN/.cpp" in "header" and "source" fold in VS2013.
